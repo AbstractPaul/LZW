@@ -1,0 +1,2 @@
+# LZW
+effective LZW algoritm
